@@ -1,6 +1,6 @@
 // Greeting
 function greet(name) {
-    return `errelo, ${name}!`;
+    return "Hello, " + name + "!";
 }
 
 // Adding two numbers
