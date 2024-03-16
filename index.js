@@ -1,6 +1,6 @@
 // Greeting
 function greet(name) {
-    return "Herrello, " + name + "!";
+    return "errelo, " + name + "!";
 }
 
 // Adding two numbers
